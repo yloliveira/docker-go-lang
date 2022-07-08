@@ -5,5 +5,5 @@
   - Utilização de Multistage Building
   - Principal desafio foi otimizar a imagem para que seu tamanho fosse de no máximo 2MB
 
-## Como Utilizar:
+## Como Utilizar a imagem criada:
   `docker run yloliveira/fc-golang`
